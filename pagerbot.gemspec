@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.2.0'
   spec.authors       = ['Karl-Aksel Puulmann']
   spec.email         = ['oxymaccy@gmail.com']
-  spec.summary       = %q{IRC and Slackbot for PagerDuty.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Slackbot for Transifex PagerDuty.}
+  spec.description   = %q{Bot to control pagerduty from slack}
   spec.homepage      = 'https://github.com/stripe-contrib/pagerbot'
   spec.license       = 'MIT'
 
